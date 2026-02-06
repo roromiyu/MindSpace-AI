@@ -22,6 +22,8 @@ In regions like Kuwait, seeking help is often blocked by social stigma, high cos
 
 ## Team
 • Rawan  
-• Naelah  
+
+• Naelah 
+
 We are a team with expertise in Information Systems, AI Development, UX/UI Design, and Entrepreneurship. Backed by mentors from the AUM Startup Challenge, we are turning this study into a real-world solution
 
