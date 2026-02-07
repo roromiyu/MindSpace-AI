@@ -4,8 +4,11 @@ MindSpace AI is a mobile platform built for the way Gen Z actually lives. We are
 Our mission is rooted in the UN Sustainable Development Goals:
 
 • SDG 3: Prioritizing mental health and well-being.  
-• SDG 10: Closing the gap for those who lack access to traditional care.  
-• SDG 17: Building scalable partnerships for global change.  
+
+• SDG 10: Closing the gap for those who lack access to traditional care.
+
+• SDG 17: Building scalable partnerships for global change. 
+
 Starting in Kuwait, we are bridging the gap between outdated therapy and the digital reality of today’s youth.
 
 ## Inspiration
@@ -27,5 +30,6 @@ In regions like Kuwait, seeking help is often blocked by social stigma, high cos
 • Naelah 
 
 We are a team with expertise in Information Systems, AI Development, UX/UI Design, and Entrepreneurship. Backed by mentors from the AUM Startup Challenge, we are turning this study into a real-world solution
+
 
 
